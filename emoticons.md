@@ -1,9 +1,41 @@
 # Emoticons (ﾉ◕ヮ◕)ﾉ✲ﾟ｡⋆
-### Frequent
+### In Dictionary
 ```
-(ﾉ◕ヮ◕)ﾉ✲ﾟ｡⋆ 		|| 	¯\_(ツ)_/¯ 	|| 	ᕕ( ᐛ )ᕗ 	|| 	(ノ°Д°）ノ︵ ┻━┻
-(･_├┬┴┬┴ 		|| 	٩(๑❛ᴗ❛๑)۶ 	|| 	｡･ﾟﾟ･(>д<)･ﾟﾟ･｡ 	|| 	( ͡º ͜ʖ ͡º)
-( ⚆ _ ⚆ ) 		|| 	(๑•̀Д•́๑) 	|| 	(ง'̀-'́)ง 	|| 	ミヽ（。＞＜）ノ
+(ﾉ◕ヮ◕)ﾉ✲ﾟ｡⋆		||	¯\_(ツ)_/¯	||	ᕕ( ᐛ )ᕗ	||	(ノ°Д°）ノ︵ ┻━┻
+throwconfetti		||	shrug		||	strolling	||	throwtable
+			||			||			||
+(･_├┬┴┬┴		||	٩(๑❛ᴗ❛๑)۶	||	｡･ﾟﾟ･(>д<)･ﾟﾟ･｡	||	( ͡º ͜ʖ ͡º)
+hiding			||	cheering	||	crying		||	sideeye
+			||			||			||
+( ⚆ _ ⚆ )		||	(๑•̀Д•́๑)		||	(ง'̀-'́)ง		||	ミヽ（。＞＜）ノ
+scaredeye		||	frowny		||	fightme		||	running
+			||			||			||
+( ಠ , ಥ )		||	╭( ｡_｡)╮	||	(ల◕◡◕ల)		||	(ಡωಡ)
+twitcheye		||	nothoughts	||	happyeye	||	huehuehue
+			||			||			||
+(๑ó⌓ò๑)			||	(๑♡⌓♡๑)		||	(໐ຶັົ໋≀ˍ໐ຶັົ໋๑)		||	(ღ˘◡˘ற)
+worryeye		||	hearteyes	||	dissapointy	||	selfloveeyes
+			||			||			||
+(ღ✪ｖ✪)｡o○		||	(っ˘З(˘⌣˘ )	||	(っ˘⌣(˘⌣˘ ⊂)	||	(づ￣ ³￣)づ
+imagining		||	kissy		||	huggies		||	hugsy
+			||			||			||
+(눈_ლ)			||	★~(◠ω◕✿)	||	♡〜٩(^▿^)۶〜♡	||	(҂⌣̀_⌣́)
+facepalm		||	winkwink	||	lovecheering	||	angery
+			||			||			||
+＼＼\(۶•̀ᴗ•́)۶//／／	||	(ه’́⌣’̀ه )／	||	( ✪ワ✪)ノʸᵉᵃʰᵎ	||	─=≡Σ((( つ ◕o◕ )つ
+fua			||	determinedme	||	heckyeah	||	flying
+			||			||			||
+╰|･ิД･ิ |			||	(✧∇✧)╯		||	┻┳|･ω･)ﾉ	||	｡ﾟ+.ღ(ゝ◡ ⚈ღ)
+concernedme		||	evilme		||	hidingme	||	bestideaeyes
+			||			||			||
+┐(˘ー˘)┌		||	(ʃ⌣́,⌣́ƪ)		||	(｢๑•₃•)｢ ʷʱʸ?	||	( ━☞´◔‿ゝ◔`)━☞
+igiveup			||	piensapiensa	||	butwhy		||	heyheyhey
+			||			||			||
+(ง ˙o˙)ว		||	ε-(´・｀) ﾌ	||	( ͝ಠ ʖ ಠ)=ε/̵͇̿̿/’̿’̿ ̿	||	╰( •̀д•́)つ¤=[]===>
+ohburn			||	exhaleeye	||	iwonthesitate	||	soyouhavechosendeath
+			||			||
+(✿˵•́ ‸ •̀˵)		||	(๑´•ㅿ•`๑) ᔆᵒʳʳᵞ	||	o(･´д･｀o)))三(((o´･д｀･)o
+saduwu			||	sorryeye	||	franticpacing
 ```
 
 ### Positive
