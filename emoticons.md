@@ -11,7 +11,7 @@ hiding			||	cheering	||	crying		||	sideeye
 scaredeye		||	frowny		||	fightme		||	running
 			||			||			||
 ( ಠ , ಥ )		||	╭( ｡_｡)╮	||	(ల◕◡◕ల)		||	(ಡωಡ)
-twitcheye		||	nothoughts	||	happyeye	||	huehuehue
+twitcheye		||	nothoughts	||	happyeye	||	huehue
 			||			||			||
 (๑ó⌓ò๑)			||	(๑♡⌓♡๑)		||	(໐ຶັົ໋≀ˍ໐ຶັົ໋๑)		||	(ღ˘◡˘ற)
 worryeye		||	hearteyes	||	dissapointy	||	selfloveeyes
@@ -22,20 +22,20 @@ imagining		||	kissy		||	huggies		||	hugsy
 (눈_ლ)			||	★~(◠ω◕✿)	||	♡〜٩(^▿^)۶〜♡	||	(҂⌣̀_⌣́)
 facepalm		||	winkwink	||	lovecheering	||	angery
 			||			||			||
-＼＼\(۶•̀ᴗ•́)۶//／／	||	(ه’́⌣’̀ه )／	||	( ✪ワ✪)ノʸᵉᵃʰᵎ	||	─=≡Σ((( つ ◕o◕ )つ
+＼＼\(۶•̀ᴗ•́)۶//／／	||	(๑•̀ᴗ•́๑ )／	||	( ✪ワ✪)ノʸᵉᵃʰᵎ	||	─=≡Σ((( つ ◕o◕ )つ
 fua			||	determinedme	||	heckyeah	||	flying
 			||			||			||
 ╰|･ิД･ิ |			||	(✧∇✧)╯		||	┻┳|･ω･)ﾉ	||	｡ﾟ+.ღ(ゝ◡ ⚈ღ)
 concernedme		||	evilme		||	hidingme	||	bestideaeyes
 			||			||			||
-┐(˘ー˘)┌		||	(ʃ⌣́,⌣́ƪ)		||	(｢๑•₃•)｢ ʷʱʸ?	||	( ━☞´◔‿ゝ◔`)━☞
-igiveup			||	piensapiensa	||	butwhy		||	heyheyhey
+┐(˘ー˘)┌		||	( `⌣_⌣́ƪ)	||	(｢๑•₃•)｢ ʷʱʸ?	||	( ━☞´◔‿ゝ◔`)━☞
+giveupeye		||	piensapiensa	||	butwhy		||	heyhey
 			||			||			||
-(ง ˙o˙)ว		||	ε-(´・｀) ﾌ	||	( ͝ಠ ʖ ಠ)=ε/̵͇̿̿/’̿’̿ ̿	||	╰( •̀д•́)つ¤=[]===>
-ohburn			||	exhaleeye	||	iwonthesitate	||	soyouhavechosendeath
+(ง ˙o˙)ว		||	ε-(´・｀) ﾌ	||	( ͝ಠ ʖ ಠ)=ε/̵͇̿/’̿’̿ ̿ ̿||	╰( •̀д•́)つ¤=[]===>
+ohburn			||	exhaleye	||	iwonthesitate	||	chosendeath
 			||			||
 (✿˵•́ ‸ •̀˵)		||	(๑´•ㅿ•`๑) ᔆᵒʳʳᵞ	||	o(･´д･｀o)))三(((o´･д｀･)o
-saduwu			||	sorryeye	||	franticpacing
+saduwueye		||	sorryeye	||	franticpacing
 ```
 
 ### Positive
